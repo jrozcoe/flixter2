@@ -7,6 +7,5 @@ class CreateEnrollments < ActiveRecord::Migration[5.2]
     end
     add_index :enrollments, [:user_id, :course_id]
     add_index :enrollments, :course_id
-    end
   end
 end

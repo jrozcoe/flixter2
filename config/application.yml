@@ -4,3 +4,6 @@ AWS_ACCESS_KEY: "Your-access-key"
 AWS_SECRET_KEY: "Your-secret-key"
 AWS_BUCKET:     "Your-bucket"
 AWS_REGION:     "us-east-1"
+
+SECRET_KEY: 'sk_test_eQHecUfLavjacOhArMZjFaup00gMJ1MeWg'
+PUBLISHABLE_KEY: 'pk_test_d4tr1YpPToLnBhkpjv8GrAxU00qxN2PsJz'
